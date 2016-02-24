@@ -1,0 +1,14 @@
+Hi!
+
+This is the first exercise for you. Others will be added later.
+
+The function DownloadSource.getSourceFile(String[]) is absolutely correct from
+the technical point of view. But it doesn't implement necessary functional, and in fact it's stupid.
+
+My question is why it's stupid.
+
+It isn't an easy question, so don't panic if you can't answer it after two or three hours of continuous thinking.
+I will be very proud of you when you will give me an answer. Because it isn't an abstract part of code.
+This is a part of code had written by my colleague...
+
+Good luck, my dear friend!
